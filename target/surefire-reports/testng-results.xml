@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testingsuite" duration-ms="83037" started-at="2016-02-18T04:22:46Z" finished-at="2016-02-18T04:24:09Z">
+    <groups>
+      <group name="Group1">
+        <method signature="Testng_Suite.Test1()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test1" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test2()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test2" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test3()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test3" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test4()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test4" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test5()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test5" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+      </group> <!-- Group1 -->
+    </groups>
+    <test name="VonageTesting" duration-ms="83037" started-at="2016-02-18T04:22:46Z" finished-at="2016-02-18T04:24:09Z">
+      <class name="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="beforeClass" is-config="true" duration-ms="24068" started-at="2016-02-17T20:22:46Z" finished-at="2016-02-17T20:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test1" duration-ms="4150" started-at="2016-02-17T20:23:10Z" finished-at="2016-02-17T20:23:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="AterMethod" is-config="true" duration-ms="5639" started-at="2016-02-17T20:23:14Z" finished-at="2016-02-17T20:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test2" duration-ms="13282" started-at="2016-02-17T20:23:20Z" finished-at="2016-02-17T20:23:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="AterMethod" is-config="true" duration-ms="2153" started-at="2016-02-17T20:23:33Z" finished-at="2016-02-17T20:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test3" duration-ms="8084" started-at="2016-02-17T20:23:35Z" finished-at="2016-02-17T20:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="AterMethod" is-config="true" duration-ms="3051" started-at="2016-02-17T20:23:44Z" finished-at="2016-02-17T20:23:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test4" duration-ms="6333" started-at="2016-02-17T20:23:47Z" finished-at="2016-02-17T20:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="AterMethod" is-config="true" duration-ms="3497" started-at="2016-02-17T20:23:53Z" finished-at="2016-02-17T20:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="Test5" duration-ms="7284" started-at="2016-02-17T20:23:56Z" finished-at="2016-02-17T20:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@3c09711b]" name="AterMethod" is-config="true" duration-ms="5469" started-at="2016-02-17T20:24:04Z" finished-at="2016-02-17T20:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+      </class> <!-- org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite -->
+    </test> <!-- VonageTesting -->
+  </suite> <!-- testingsuite -->
+</testng-results>

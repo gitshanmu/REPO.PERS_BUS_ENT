@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="68653" started-at="2016-02-17T09:06:15Z" finished-at="2016-02-17T09:07:24Z">
+    <groups>
+      <group name="Group1">
+        <method signature="Testng_Suite.Test1()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test1" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test2()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test2" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test3()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test3" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test4()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test4" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+        <method signature="Testng_Suite.Test5()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test5" class="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite"/>
+      </group> <!-- Group1 -->
+    </groups>
+    <test name="Command line test" duration-ms="68653" started-at="2016-02-17T09:06:15Z" finished-at="2016-02-17T09:07:24Z">
+      <class name="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2016-02-17T01:06:15Z" finished-at="2016-02-17T01:06:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="beforeClass" is-config="true" duration-ms="20287" started-at="2016-02-17T01:06:15Z" finished-at="2016-02-17T01:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test1" duration-ms="3561" started-at="2016-02-17T01:06:36Z" finished-at="2016-02-17T01:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="AterMethod" is-config="true" duration-ms="3547" started-at="2016-02-17T01:06:39Z" finished-at="2016-02-17T01:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test2" duration-ms="10453" started-at="2016-02-17T01:06:43Z" finished-at="2016-02-17T01:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="AterMethod" is-config="true" duration-ms="2111" started-at="2016-02-17T01:06:53Z" finished-at="2016-02-17T01:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test3" duration-ms="4583" started-at="2016-02-17T01:06:55Z" finished-at="2016-02-17T01:07:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="AterMethod" is-config="true" duration-ms="2801" started-at="2016-02-17T01:07:00Z" finished-at="2016-02-17T01:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test4" duration-ms="5682" started-at="2016-02-17T01:07:03Z" finished-at="2016-02-17T01:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="AterMethod" is-config="true" duration-ms="2853" started-at="2016-02-17T01:07:08Z" finished-at="2016-02-17T01:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="Test5" duration-ms="5202" started-at="2016-02-17T01:07:11Z" finished-at="2016-02-17T01:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="AterMethod()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="AterMethod" is-config="true" duration-ms="7548" started-at="2016-02-17T01:07:17Z" finished-at="2016-02-17T01:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite@5dfcfece]" name="afterSuite" is-config="true" duration-ms="1" started-at="2016-02-17T01:07:24Z" finished-at="2016-02-17T01:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [testingsuite]">
+  <test name="VonageTesting(failed)">
+    <groups>
+      <run>
+        <include name="Group1"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="Test3"/>
+          <include name="AterMethod"/>
+        </methods>
+      </class> <!-- org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite -->
+    </classes>
+  </test> <!-- VonageTesting(failed) -->
+</suite> <!-- Failed suite [testingsuite] -->
