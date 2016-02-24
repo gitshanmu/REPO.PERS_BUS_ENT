@@ -1,0 +1,15 @@
+<suite name="testingsuite">
+<test name ="VonageTesting" preserve-order="true">
+<groups>
+<run>
+	<include name ="Group1" />
+	
+</run>
+</groups>
+
+<classes>
+<class name ="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite">
+</class>
+</classes>
+</test>
+</suite>

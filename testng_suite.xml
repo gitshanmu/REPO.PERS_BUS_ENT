@@ -1,15 +1,10 @@
-<suite name="testingsuite">
-<test name ="VonageTesting" preserve-order="true">
-<groups>
-<run>
-	<include name ="Group1" />
-	
-</run>
-</groups>
-
-<classes>
-<class name ="org.vonage.Cutomer_PERS_BUS_ENT.Testng_Suite">
-</class>
-</classes>
-</test>
-</suite>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="org.vonage.Customer_PERS_BUS_ENT.AppTest"/>
+      <class name="org.vonage.Customer_PERS_BUS_ENT.Testng_Suite"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
